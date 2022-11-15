@@ -141,10 +141,10 @@ transform-origin: 0 50% 50
 }
 
 .buttonbtn{
-  display: flex;
-  position: fixed;
-  top: 84%;
-  left: 34.5%;
+     display: flex;
+    position: fixed;
+    top: 55%;
+    left: 43.5%;
 }
   
   .btn{
