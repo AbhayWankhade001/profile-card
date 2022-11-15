@@ -166,6 +166,7 @@ transform-origin: 0 50% 50
     z-index: 1;
     margin: 5px;
     left: -8rem;
+	  top:-10;
   }
    
   .btn:hover {
