@@ -54,7 +54,7 @@ transform-origin: 0 50% 50
   border: 1px solid rgba( 255, 255, 255, 0.18 );
   width: max-content;
   height: 33rem;
-  left: 19rem;
+  left: 33.5rem;
   top: 4rem;
 }
 
@@ -105,7 +105,7 @@ transform-origin: 0 50% 50
     display: flex;
     position: fixed;
     top: 28rem;
-    left: 23rem;
+    left: 37rem;
     flex-direction: row-reverse;
     flex-wrap: nowrap;
     align-content: center;
